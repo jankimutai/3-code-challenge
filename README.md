@@ -6,7 +6,6 @@ This function takes a string containing parentheses, curly braces, and square br
 the expression is balanced
 
 sample input = 
-
 - expression1 = "([]{})"
 - expression2 = "([)]"
 - print(is_balanced(expression1))  # Output: True
